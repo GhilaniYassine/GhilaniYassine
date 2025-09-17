@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Yassine Ghilani</strong></h1>
-<h3 align="center">🚀 Python Developer | AI Engineer | Generative AI Enthusiast</h3>
+<h3 align="center">🚀 Generative AI | Python & Django</h3>
 
 <p align="center">
 Building <strong>scalable web applications</strong> and <strong>cutting-edge AI systems</strong> powered by <strong>Azure AI</strong> and <strong>Machine Learning</strong>.
