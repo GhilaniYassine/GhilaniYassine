@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hi, I'm <strong>Yassine Ghilani</strong></h1>
-<h3 align="center">🚀 Python Developer | AI & Machine Learning Enthusiast | Generative AI Explorer</h3>
+<h3 align="center">🚀 Python Developer | AI Engineer | Generative AI Enthusiast</h3>
 
 <p align="center">
-Building <strong>scalable web applications</strong> and <strong>cutting-edge AI systems</strong> that push the boundaries of what’s possible.
+Building <strong>scalable web applications</strong> and <strong>cutting-edge AI systems</strong> powered by <strong>Azure AI</strong> and <strong>Machine Learning</strong>.
 </p>
 
 ---
 
 ### 🌟 About Me  
 💡 Passionate about **Generative AI**, **LLMs**, and **NLP applications**.  
-⚙️ Experienced in developing **robust backends** with Django, FastAPI, and REST APIs.  
-🧠 Skilled in **AI/ML frameworks** like PyTorch, TensorFlow, and Hugging Face.  
+⚙️ Experienced **Azure AI Engineer** – designing, deploying, and managing intelligent solutions on **Microsoft Azure** (OpenAI Service, Cognitive Services, Azure Machine Learning).  
+🧠 Skilled in **backend development** with Django, FastAPI, and REST APIs.  
 📚 BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse**, specialized in algorithms and software development.  
 🏀 **Fun fact**: I love Basketball!  
 
@@ -18,6 +18,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 
 ### 🧠 What I’m Working On  
 - **LLM Fine-Tuning** & Retrieval-Augmented Generation (RAG) systems.  
+- **Azure AI Solutions** using OpenAI Service, Cognitive Search, and Machine Learning pipelines.  
 - **Specialized NLP Applications** and multi-modal AI systems.  
 - Building **scalable, production-ready backends** with Django, FastAPI, and Docker.  
 
@@ -48,8 +49,9 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
-#### 🗄️ Databases  
+#### ☁️ Cloud & Databases  
 <p align="left">
+<a href="#"><img src="https://azure.microsoft.com/svghandler/azure-icon/?width=40" alt="Azure" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 <a href="#"><img src="https://avatars.githubusercontent.com/u/131204609?s=200&v=4" alt="ChromaDB" width="40" height="40"/></a>
 </p>
@@ -67,6 +69,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 
 ### 🧰 Core Skills & Interests  
 - **Generative AI & LLMs**  
+- **Azure AI Solutions** (OpenAI Service, Cognitive Services, Azure ML)  
 - **NLP & RAG Systems**  
 - **Backend Development with Django & FastAPI**  
 - **REST APIs & Microservices**  
