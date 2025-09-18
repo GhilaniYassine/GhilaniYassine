@@ -14,7 +14,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 📚 BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse**
 
 
-##                                                      🏀 **Fun fact**: I love Basketball :) 
+####                                                      🏀 **Fun fact**: I love Basketball :) 
 
 ---
 
