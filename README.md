@@ -11,7 +11,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 💡 Passionate about **Generative AI**, **LLMs**, and **NLP applications** **AI agent** , **Agentic RAG** ,**Automation , n8n**.  
 ⚙️ Aspiring Azure AI Engineer – learning and building intelligent solutions with Microsoft Azure AI services (OpenAI Service, Cognitive Services, Azure AI Foundry, Azure Machine Learning).
 🧠 Skilled in **backend development** with Django,DRF .  
-📚 BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse**
+📚 BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Sousse**
 
 
 ####                                                      🏀 **Fun fact**: I love Basketball :) 
