@@ -14,7 +14,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 📚 BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Sousse**
 
 
-####                                                      🏀 **Fun fact**: I love Basketball :) 
+####                                  🏀 Fun fact: I’m all about basketball — hit me up to hoop or team up on your next big project! 
 
 ---
 
