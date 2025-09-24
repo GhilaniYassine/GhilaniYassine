@@ -67,7 +67,6 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 - **NLP & RAG Systems**  
 - **Backend Development with Django & FastAPI**  
 - **REST APIs & Microservices**  
-- **Scalable Data Pipelines with Pandas/NumPy**  
 - **Containerization & Cloud Deployment**  
 
 ---
