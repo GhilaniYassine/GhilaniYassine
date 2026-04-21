@@ -1,105 +1,94 @@
-<h1 align="center">👋 Hi, I'm <strong>Yassine Ghilani</strong></h1>
-<h3 align="center">🚀 Generative AI | Python & Django</h3>
+<h1 align="center">✨ Welcome to My World ✨</h1>
+<h3 align="center">Hi, I'm <strong>Yassine Ghilani</strong> – A Passionate AI Enthusiast</h3>
 
 <p align="center">
-Building <strong>scalable web applications</strong> and <strong>cutting-edge AI systems</strong> powered by <strong>Azure AI</strong> and <strong>Machine Learning</strong>.
-</p>
-
-<p align="center">
-<img src="https://source.unsplash.com/800x400/?technology,ai" alt="AI Banner" width="800"/>
+  <img src="https://source.unsplash.com/800x400/?ai,technology,innovation" alt="AI and Technology Banner" width="800"/>
 </p>
 
 ---
 
-### 🌟 About Me  
-💡 Passionate about **Generative AI**, **LLMs**, and **NLP applications**, **AI agent**, **Agentic RAG**, **Automation**, **n8n**.  
-⚙️ Aspiring Azure AI Engineer – learning and building intelligent solutions with Microsoft Azure AI services (OpenAI Service, Cognitive Services, Azure AI Foundry, Azure Machine Learning).  
-🧠 Skilled in **backend development** with Django, DRF.  
-📚 BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Sousse**.  
-🎨 **Creative Thinker**: I love blending technology with creativity to solve real-world problems.  
-🌍 **Global Collaborator**: Open to working with teams worldwide to build impactful solutions.  
+## 🚀 About Me
+
+Hello! I'm Yassine, a tech enthusiast with a deep passion for **Generative AI**, **LLMs**, and **NLP applications**. My journey in technology is driven by a love for innovation and creativity. Here's a little about me:
+
+- 🌐 **Azure AI Explorer**: Building intelligent solutions with Microsoft Azure AI services, including OpenAI Service, Cognitive Services, and Azure Machine Learning.
+- 💻 **Backend Developer**: Proficient in Django, DRF, and FastAPI for creating robust and scalable web applications.
+- 🎓 **Academic Background**: BSc in Computer Science from **Institut Supérieur d'Informatique et des Technologies de Communication de Sousse**.
+- 🌍 **Global Collaborator**: Thrilled to work with teams worldwide to create impactful solutions.
+- 🏀 **Fun Fact**: When I'm not coding, you can find me on the basketball court!
 
 <p align="center">
-<img src="https://source.unsplash.com/600x300/?projects,teamwork" alt="Projects Preview" width="600"/>
-</p>
-
-#### 🏀 Fun fact: I’m all about basketball — hit me up to hoop or team up on your next big project!  
-
----
-
-### 🔗 Connect With Me  
-<p align="center">
-<a href="https://www.linkedin.com/in/yassineghilani/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine Ghilani LinkedIn" height="30" width="40" />
-</a>
-<a href="https://ghilaniyassine.tech/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Yassine Ghilani Website" height="30" width="40" />
-</a>
-<a href="mailto:ghilaniyassine11@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Yassine Ghilani Email" height="30" width="40" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://source.unsplash.com/800x400/?network,connect" alt="Connect Banner" width="800"/>
+  <img src="https://source.unsplash.com/600x300/?teamwork,collaboration,success" alt="Collaboration and Teamwork" width="600"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack  
+## 🔗 Let's Connect
 
-#### 💻 Languages & Frameworks  
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-<a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-</p>
+I'm always excited to connect with like-minded individuals and teams. Feel free to reach out to me:
 
-#### ☁️ Cloud & Databases  
-<p align="left">
-<a href="#"><img src="https://azure.microsoft.com/svghandler/azure-icon/?width=40" alt="Azure" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="#"><img src="https://avatars.githubusercontent.com/u/131204609?s=200&v=4" alt="ChromaDB" width="40" height="40"/></a>
-</p>
-
-#### ⚙️ Tools & Platforms  
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yassineghilani/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://ghilaniyassine.tech/" target="blank">
+    <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome" alt="Website"/>
+  </a>
+  <a href="mailto:ghilaniyassine11@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://source.unsplash.com/800x400/?technology,tools" alt="Tech Stack" width="800"/>
+  <img src="https://source.unsplash.com/800x400/?networking,connections,global" alt="Networking and Connections" width="800"/>
 </p>
 
 ---
 
-### 🧰 Core Skills & Interests  
-- **Generative AI & LLMs**  
-- **Azure AI Solutions** (OpenAI Service, Cognitive Services, Azure ML)  
-- **NLP & RAG Systems**  
-- **Backend Development with Django & FastAPI**  
-- **REST APIs & Microservices**  
-- **Containerization & Cloud Deployment**  
+## 🛠️ Tech Stack
 
+### 💻 Languages & Frameworks
 <p align="center">
-<img src="https://source.unsplash.com/600x300/?skills,learning" alt="Skills Preview" width="600"/>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/></a>
+  <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
 </p>
+
+### ☁️ Cloud & Databases
+<p align="center">
+  <a href="#"><img src="https://azure.microsoft.com/svghandler/azure-icon/?width=50" alt="Azure" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
+  <a href="#"><img src="https://avatars.githubusercontent.com/u/131204609?s=200&v=4" alt="ChromaDB" width="50" height="50"/></a>
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+</p>
+
+
+
+## 🌟 Core Skills & Interests
+
+- **Generative AI & LLMs**: Crafting intelligent systems that learn and adapt.  
+- **Azure AI Solutions**: Leveraging OpenAI Service, Cognitive Services, and Azure ML for impactful projects.  
+- **NLP & RAG Systems**: Building systems that understand and generate human-like text.  
+- **Backend Development**: Expertise in Django, FastAPI, and RESTful APIs.  
+- **Cloud Deployment**: Mastering containerization and scalable cloud solutions.  
+
+
 
 ---
 
 <h3 align="center">✨ Always curious. Always building. Always learning. ✨</h3>
-
-<p align="center">
-<img src="https://source.unsplash.com/800x400/?creativity,fun" alt="Fun Banner" width="800"/>
-</p>
