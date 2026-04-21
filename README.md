@@ -6,7 +6,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 </p>
 
 <p align="center">
-<img src="https://ghilaniyassine.tech/assets/ai-banner.jpg" alt="AI Banner" width="800"/>
+<img src="https://source.unsplash.com/800x400/?technology,ai" alt="AI Banner" width="800"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 🌍 **Global Collaborator**: Open to working with teams worldwide to build impactful solutions.  
 
 <p align="center">
-<img src="https://ghilaniyassine.tech/assets/projects-preview.jpg" alt="Projects Preview" width="600"/>
+<img src="https://source.unsplash.com/600x300/?projects,teamwork" alt="Projects Preview" width="600"/>
 </p>
 
 #### 🏀 Fun fact: I’m all about basketball — hit me up to hoop or team up on your next big project!  
@@ -41,7 +41,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 </p>
 
 <p align="center">
-<img src="https://ghilaniyassine.tech/assets/connect-banner.jpg" alt="Connect Banner" width="800"/>
+<img src="https://source.unsplash.com/800x400/?network,connect" alt="Connect Banner" width="800"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 </p>
 
 <p align="center">
-<img src="https://ghilaniyassine.tech/assets/tech-stack.jpg" alt="Tech Stack" width="800"/>
+<img src="https://source.unsplash.com/800x400/?technology,tools" alt="Tech Stack" width="800"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 - **Containerization & Cloud Deployment**  
 
 <p align="center">
-<img src="https://ghilaniyassine.tech/assets/skills-preview.jpg" alt="Skills Preview" width="600"/>
+<img src="https://source.unsplash.com/600x300/?skills,learning" alt="Skills Preview" width="600"/>
 </p>
 
 ---
@@ -101,5 +101,5 @@ Building <strong>scalable web applications</strong> and <strong>cutting-edge AI 
 <h3 align="center">✨ Always curious. Always building. Always learning. ✨</h3>
 
 <p align="center">
-<img src="https://ghilaniyassine.tech/assets/fun-banner.jpg" alt="Fun Banner" width="800"/>
+<img src="https://source.unsplash.com/800x400/?creativity,fun" alt="Fun Banner" width="800"/>
 </p>
