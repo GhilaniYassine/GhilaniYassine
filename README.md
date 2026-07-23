@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://ghilaniyassine.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+Agentic+Systems+%7C+Automation;n8n+%2B+LangGraph+%2B+MCP+%E2%86%92+agents+that+actually+ship;RAG+pipelines%2C+multi-agent+orchestration%2C+clean+APIs;From+Sousse+%F0%9F%87%B9%F0%9F%87%B3+to+Amsterdam+%F0%9F%87%B3%F0%9F%87%B1+and+everywhere+remote" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+Agentic+Systems+%7C+Automation;n8n+%2B+LangGraph+%2B+MCP+%E2%86%92+agents+that+actually+ship;RAG+pipelines%2C+multi-agent+orchestration%2C+clean+APIs" alt="Typing SVG"/>
 </a>
 
 <p>
@@ -169,6 +169,13 @@ class YassineGhilani:
 ## 🧭 Experience
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{
+  'primaryColor':'#0f2027','primaryTextColor':'#e8f4fb','primaryBorderColor':'#00d4ff',
+  'lineColor':'#00d4ff','textColor':'#e8f4fb','titleColor':'#e8f4fb','fontSize':'15px',
+  'cScale0':'#0b2a36','cScale1':'#123a4a','cScale2':'#0e2f3d',
+  'cScaleLabel0':'#e8f4fb','cScaleLabel1':'#e8f4fb','cScaleLabel2':'#e8f4fb',
+  'cScaleInv0':'#00d4ff','cScaleInv1':'#00d4ff','cScaleInv2':'#00d4ff',
+  'tertiaryColor':'#0d1117','noteBkgColor':'#0d1117','noteTextColor':'#e8f4fb'}}}%%
 timeline
     title Yassine · engineering timeline
     2023 : BSc Computer Science @ ISITCom Sousse
@@ -271,17 +278,22 @@ timeline
 ## 🏗️ How I build agentic systems
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{
+  'primaryColor':'#0b2a36','primaryTextColor':'#e8f4fb','primaryBorderColor':'#00d4ff',
+  'lineColor':'#00d4ff','textColor':'#e8f4fb','fontSize':'15px',
+  'secondaryColor':'#123a4a','tertiaryColor':'#0d1117',
+  'edgeLabelBackground':'#0d1117','clusterBkg':'#0d1117','clusterBorder':'#00d4ff'}}}%%
 flowchart LR
-    A["🗣️ user intent"] --> B["🧠 planner agent"]
+    A["user intent"] --> B["planner agent"]
     B --> C{"route"}
-    C -->|"research"| D["🔎 web / Browser MCP"]
-    C -->|"knowledge"| E["📚 RAG · vector store"]
-    C -->|"action"| F["🛠️ tools · MCP / ACP"]
-    D --> G["🧩 orchestrator — n8n / LangGraph"]
+    C -->|research| D["web · Browser MCP"]
+    C -->|knowledge| E["RAG · vector store"]
+    C -->|action| F["tools · MCP / ACP"]
+    D --> G["orchestrator — n8n / LangGraph"]
     E --> G
     F --> G
-    G --> H["✅ verified output"]
-    H --> I["🚢 Django / FastAPI · Docker"]
+    G --> H["verified output"]
+    H --> I["Django / FastAPI · Docker"]
 ```
 
 ---
