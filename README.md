@@ -55,38 +55,6 @@ class YassineGhilani:
 
 ---
 
-## 🧭 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟦 AI Engineer — [BhivesAI](https://bhives.ai/)
-`Jan 2026 → Apr 2026` · Amsterdam, NL
-
-**The Agent WebPilot** — multi-agent AI that drives a real browser from a plain-English request.
-
-- Designed a multi-agent system automating live browser tasks
-- Built the orchestration pipeline on **OpenClaw · OpenCode · ACP**
-- Integrated **Browser MCP** for reliable real-time web interaction
-- Containerized with **Docker**, versioned with **Git**
-
-</td>
-<td width="50%" valign="top">
-
-### 🟦 AI Engineer — [BhivesAI](https://bhives.ai/)
-`Sep 2025 → Nov 2025` · Amsterdam, NL
-
-**AI Content Generation System** — ideas in, publish-ready social content out.
-
-- Built an automation platform on **n8n** turning ideas into posts
-- Designed multi-agent workflows: copy, image gen, smart web research
-- Shipped an **Airtable** control panel + backend↔frontend integration
-- **Python · n8n · Airtable · Docker · Ngrok · GitHub** in production
-
-</td>
-</tr>
-</table>
 
 ---
 
